@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color: rgb(175, 162, 162);
 }
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -8,6 +8,9 @@ h1 {
     color: aqua;
     background-color: grey;
 }
+ul, li, div {
+    background-color: rgb(138, 125, 125);
+}
 h2 {
     background-color: black;
     color: bisque;
@@ -15,7 +18,7 @@ h2 {
     font-weight: 300;
 }
 .preview { 
-    background-color: aqua;
+    background-color: rgb(100, 98, 137);
     color: bisque;
 
 }
